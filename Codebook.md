@@ -89,5 +89,5 @@
 	+ fBodyBodyGyroMag-std()
 	+ fBodyBodyGyroJerkMag-mean()
 	+ fBodyBodyGyroJerkMag-std()
-* average   : Numeric -- Normalized averages of the measurements
+* average   : Numeric -- Averages of the normalized measurements
 	+ from -1.0 to 1.0
